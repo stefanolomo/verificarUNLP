@@ -1,0 +1,26 @@
+{
+  "imagenes_a_validar": [
+    {
+      "hash_sha256": "ac6842fa67bf136c291f497859e19f5fc55c84b239b3738e9ccdb9009f04ebc9",
+      "posicion_esperada": {
+        "x0": 62.0,
+        "y0": 25.0,
+        "x1": 154.0,
+        "y1": 52.1199951171875
+      }
+    },
+    {
+      "hash_sha256": "42432e4848a0a94cc186fa2ceed90fba4effa21ac011bc911486df871d937a60",
+      "posicion_esperada": {
+        "x0": 1.0,
+        "y0": 1.0,
+        "x1": -1.0,
+        "y1": -1.0
+      }
+    }
+  ],
+  "textos_a_validar": [
+    "este certificado podrá ser validado ingresando a https://autogestion.guarani.unlp.edu.ar/validador_certificados completando el código de validación y el nº de dni (o pasaporte) del alumno o bien escaneando el código qr. por la presente",
+    "constancia de alumno regular observaciones"
+  ]
+}
